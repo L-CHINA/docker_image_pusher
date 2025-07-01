@@ -1,3 +1,2 @@
 hub.bubbleran.com/public/mx-ric:v2025.0.0
-hub.bubbleran.com/public/mx-ue:v2025.0.0
-hub.bubbleran.com/public/mx-xapp:v2025.0.0
+
